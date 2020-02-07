@@ -11,7 +11,7 @@ import Nd from './img/nd.jpeg';
 
 export const tennisPlayers = [
   {
-    name: 'Roger Federer',
+    name: 'Rogerrr Federer',
     country: 'Switzerland',
     skill: 'Forehand',
     id: Rf
