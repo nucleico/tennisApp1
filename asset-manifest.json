@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tennisApp1/static/css/main.a2b7b0b6.chunk.css",
-    "main.js": "/tennisApp1/static/js/main.a51b56a0.chunk.js",
-    "main.js.map": "/tennisApp1/static/js/main.a51b56a0.chunk.js.map",
+    "main.css": "/tennisApp1/static/css/main.5371260d.chunk.css",
+    "main.js": "/tennisApp1/static/js/main.3ffce390.chunk.js",
+    "main.js.map": "/tennisApp1/static/js/main.3ffce390.chunk.js.map",
     "runtime-main.js": "/tennisApp1/static/js/runtime-main.0b8a2810.js",
     "runtime-main.js.map": "/tennisApp1/static/js/runtime-main.0b8a2810.js.map",
     "static/css/2.eb45ad44.chunk.css": "/tennisApp1/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.8ec5975b.chunk.js": "/tennisApp1/static/js/2.8ec5975b.chunk.js",
-    "static/js/2.8ec5975b.chunk.js.map": "/tennisApp1/static/js/2.8ec5975b.chunk.js.map",
+    "static/js/2.a322e896.chunk.js": "/tennisApp1/static/js/2.a322e896.chunk.js",
+    "static/js/2.a322e896.chunk.js.map": "/tennisApp1/static/js/2.a322e896.chunk.js.map",
     "index.html": "/tennisApp1/index.html",
-    "precache-manifest.f2c8f53a3f926385da31cdf328397add.js": "/tennisApp1/precache-manifest.f2c8f53a3f926385da31cdf328397add.js",
+    "precache-manifest.152a9052b5040d09360b82d1dc50598d.js": "/tennisApp1/precache-manifest.152a9052b5040d09360b82d1dc50598d.js",
     "service-worker.js": "/tennisApp1/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/tennisApp1/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.a2b7b0b6.chunk.css.map": "/tennisApp1/static/css/main.a2b7b0b6.chunk.css.map",
-    "static/js/2.8ec5975b.chunk.js.LICENSE.txt": "/tennisApp1/static/js/2.8ec5975b.chunk.js.LICENSE.txt",
+    "static/css/main.5371260d.chunk.css.map": "/tennisApp1/static/css/main.5371260d.chunk.css.map",
+    "static/js/2.a322e896.chunk.js.LICENSE.txt": "/tennisApp1/static/js/2.a322e896.chunk.js.LICENSE.txt",
     "static/media/am.jpeg": "/tennisApp1/static/media/am.f4a81a78.jpeg",
     "static/media/az.jpg": "/tennisApp1/static/media/az.df17bc38.jpg",
     "static/media/dt.jpg": "/tennisApp1/static/media/dt.50f256ca.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.0b8a2810.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.8ec5975b.chunk.js",
-    "static/css/main.a2b7b0b6.chunk.css",
-    "static/js/main.a51b56a0.chunk.js"
+    "static/js/2.a322e896.chunk.js",
+    "static/css/main.5371260d.chunk.css",
+    "static/js/main.3ffce390.chunk.js"
   ]
 }
