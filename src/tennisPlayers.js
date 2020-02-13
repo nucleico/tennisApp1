@@ -27,7 +27,7 @@ export const tennisPlayers = [
   {
     name: 'Novak Djokovic',
     country: 'Serbia',
-    skill: 'Mental strength',
+    skill: 'Mental strength...',
     id: Nd,
     ranking: '1'
   },
