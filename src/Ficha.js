@@ -1,15 +1,40 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-const Ficha = props => {
-  return (
-    <div className="tc bg-light-green dib vr3 pa3 ma2 grow bw2 shadow-5">
-      <img alt="players" src={props.id} />
-      <div>
-        <h2>{props.name}</h2>
-        <p>{props.email}</p>
+class Ficha extends Component {
+  constructor() {
+    super();
+    this.state = {
+      bioChange: false
+    };
+  }
+
+  render() {
+    const changeBio = () => {
+      this.setState({ bioChange: !this.state.bioChange });
+    };
+
+    return (
+      <div
+        onMouseEnter={changeBio}
+        onMouseLeave={changeBio}
+        className="grow bw2 shadow-5 card"
+      >
+        <img alt="players" src={this.props.id} />
+        <div>
+          <h2>{this.props.name}</h2>
+          {this.state.bioChange ? (
+            <div>
+              <div>Country: {this.props.country}</div>
+              <div className="bio">Skill: {this.props.skill}</div>
+              <div>Best Ranking: {this.props.ranking}</div>
+            </div>
+          ) : (
+            ' '
+          )}
+        </div>
       </div>
-    </div>
-  );
-};
+    );
+  }
+}
 
 export default Ficha;

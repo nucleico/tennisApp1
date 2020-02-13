@@ -7,7 +7,9 @@ const CardList = props => {
       <Ficha
         id={props.tenistas[i].id}
         name={props.tenistas[i].name}
-        email={props.tenistas[i].email}
+        skill={props.tenistas[i].skill}
+        country={props.tenistas[i].country}
+        ranking={props.tenistas[i].ranking}
       />
     );
   });
